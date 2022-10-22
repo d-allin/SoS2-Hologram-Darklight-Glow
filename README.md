@@ -1,5 +1,11 @@
 # SoS2-Hologram-Darklight-Glow
 
+**** NOTE: This mod is deprecated ****
+Holograms from SoS 2 no longer emit light. In patch notes for SoS 2 (5 Apr):
+"For performance/darklight reasons, holograms no longer emit a glow"
+
+**** Original Mod Description ****
+
 Are your pawns
 
 a) following an ideology with the Lighting precept,
